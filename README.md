@@ -1,7 +1,8 @@
 # PORTFOLIO-APP 
 
 
-This is the implementaion code for the blog I have written '[How to create your portfolio website using React.js](https://cultureweb.github.io/me/)'
+This is the implementaion code for the blog I have written '[
+Déployer votre site en utilisant GitHub gratuitement](https://cultureweb.github.io/me/)'
 - To run this project follow these steps , 
   - clone the repo using `git clone`
   - navigate to folder `portfolio-app`
